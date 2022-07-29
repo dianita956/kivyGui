@@ -1,4 +1,5 @@
 #learning kivy
+#date added July 29. 2022
 
 import kivy
 from kivy.app import App
